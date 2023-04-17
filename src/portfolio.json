@@ -2,7 +2,7 @@
     {
     "id": 1,
     "name": "Book Search Engine",
-    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/whiskey-inventory.PNG",
+    "image": "https://github.com/Beenarob/beena-rob-portfolio/blob/main/src/assets/images/book-engine.PNG",
     "github": "https://github.com/Beenarob/book-search-br",
     "deploy": "https://book-search-br.herokuapp.com/",
     "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize"
@@ -10,7 +10,7 @@
     {
     "id": 2,
     "name": "tech blog",
-    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/tech-blog.PNG",
+    "image": "https://github.com/Beenarob/beena-rob-portfolio/blob/main/src/assets/images/tech-blog.PNG",
     "github": "https://github.com/Beenarob/tech-blog-br",
     "deploy": "https://tech-blog-br.herokuapp.com/",
     "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, nodemon, dotenv, handlebars-js, jest"
@@ -18,7 +18,7 @@
     {
     "id": 3,
     "name": "Text Editor",
-    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/pwabudget.PNG",
+    "image": "https://github.com/Beenarob/beena-rob-portfolio/blob/main/src/assets/images/text-editor.PNG",
     "github": "https://github.com/Beenarob/text-editor-br",
     "deploy": "https://text-editor-br.herokuapp.com/",
     "topics": "javascript, pwa, indexedDB, mongoDB, mongoose, compression, morgan, nodemon, express"
@@ -26,7 +26,7 @@
     {
     "id": 4,
     "name": "Code Quiz",
-    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/weatherdashboard.PNG",
+    "image": "https://github.com/Beenarob/beena-rob-portfolio/blob/main/src/assets/images/code-quiz.PNG",
     "github": "https://github.com/Beenarob/CodeQuiz",
     "deploy": "https://beenarob.github.io/CodeQuiz/",
     "topics": "javascript, jQuery, html, bootstrap, moment, API"

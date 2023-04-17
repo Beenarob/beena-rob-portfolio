@@ -8,7 +8,7 @@ function About() {
       
       <div className="row justify-content-center">
         <div className="col-10" id="about-section">
-            <img class="mb-5" src="https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/joseph-dewoody.jpg" alt="Beena Robert"/>
+            <img class="mb-5" src="https://github.com/Beenarob/beena-rob-portfolio/blob/main/src/assets/images/beena-robert.jpg" alt="Beena Robert"/>
         <p>
         Creative Industry Studies Graduate from the Fashion Institute of Design and Merchandising with a Major in Graphic Design. 
         </p>

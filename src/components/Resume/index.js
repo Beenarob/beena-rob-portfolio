@@ -13,7 +13,7 @@ return(
                 <a href="https://www.linkedin.com/in/beena-robert/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="Beena LinkedIn"/></a>
                 </p>
                 <p>
-                Download my full <a href="https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/Resume-Joseph-DeWoody.pdf" class="link">resume</a>
+                Download my full <a href="https://github.com/Beenarob/beena-rob-portfolio/blob/main/src/assets/Resume-Beena-Robert.pdf" class="link">resume</a>
                 <br></br>
                 </p>
             </div>
