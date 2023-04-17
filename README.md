@@ -1,3 +1,9 @@
+# Beena Robert Portfolio 
+Portfolio of some of my work during my coding bootcamp 
+
+# Code Credit 
+(https://github.com/jpd61)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
